@@ -1,0 +1,23 @@
+h1{
+    color: aqua;
+    text-align: center;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* display: nline; */
+    /* padding-left: 460px; */
+}
+.hell{
+    border: 3px solid tomato;
+    display: inline;
+    border-radius:2px ;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 5px olive;
+}
+.hello{
+    background-color: aliceblue;
+
+    /* height: 300px; */
+    /* width: 300px; */
+    /* text-align: cent; */
+
+}
